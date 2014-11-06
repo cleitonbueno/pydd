@@ -41,4 +41,4 @@ Contact: cleitonrbueno@gmail.com
 -------
 New future resources
 -------
-Automate with RaspberryPI BEAGLEBONE Black recording images
+Automate with RaspberryPI and BeagleBone Black recording images
