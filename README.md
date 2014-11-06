@@ -13,8 +13,6 @@ The secret is to pass only the parameters of the dd command and run as root.
 Example
 -------
 
-{% blockquote %}
-
 user1@my_notebook ~ $ sudo python pydd.py
 
         Pydd:  Um wrapper do comando dd do Linux com visualização do progresso em Python
@@ -34,4 +32,3 @@ user1@my_notebook ~ $ sudo python pydd.py
     PID: 8250
     ******************
     Gravando: (537MB)       Tempo decorrido: 42,09s     Taxa: 35MB/s
-{% endblockquote %}
