@@ -13,7 +13,7 @@ The secret is to pass only the parameters of the dd command and run as root.
 Example
 -------
 
-.. code-block: bash
+.. code-block:: bash
 user1@my_notebook ~ $ sudo python pydd.py
 
         Pydd:  Um wrapper do comando dd do Linux com visualização do progresso em Python
