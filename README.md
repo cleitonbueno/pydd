@@ -7,7 +7,7 @@ Pydd it's a wrapper using the command dd Linux written in Python and using to vi
 Basic usage
 -------
 
-The secret is to pass only the parameters of the dd command and run as root.
+The secret is to pass only the parameters of the dd command and run as root, only Python version 2.7.
 
 -------
 Example
