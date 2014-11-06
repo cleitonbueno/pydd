@@ -76,7 +76,7 @@ def cmd_dd(cmd):
 def main():
     try:
         add_line(" ",20)
-        msg("Pydd :\t", "Um wrapper do commando dd do Linux com visualização do progresso em Python")
+        msg("Pydd :\t", "Um wrapper do comando dd do Linux com visualização do progresso em Python")
         add_line("",20)
 
         add_line("*",20) 
@@ -87,7 +87,7 @@ def main():
         msg("Exemplo:", "if=/home/user/image/rootfs.img of=/dev/sdc bs=512k")
         add_line("*",20) 
         
-        cmd_line = raw_input("Entre com o comando: ")
+        cmd_line = raw_input("Entre com os parametros: ")
         cmd_params = shlex.split(cmd_line)
         
         check_user()
