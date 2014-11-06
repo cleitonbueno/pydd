@@ -3,9 +3,9 @@ pydd
 
 Pydd it's a wrapper using the command dd Linux written in Python and using to viewer the progress of work.
 
------------
+-------
 Basic usage
------------
+-------
 
 The secret is to pass only the parameters of the dd command and run as root.
 
@@ -32,3 +32,13 @@ user1@my_notebook ~ $ sudo python pydd.py
     PID: 8250
     ******************
     Gravando: (537MB)       Tempo decorrido: 42,09s     Taxa: 35MB/s
+
+-------
+Contributing
+-------
+Contact: cleitonrbueno@gmail.com
+
+-------
+New future resources
+-------
+Automate with RaspberryPI BEAGLEBONE Black recording images
